@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Antonio
 
-![Esto es una imagen](imagen.jpg)
+![Esto es una imagen](GitHub.jpg)
 
 **Estudiante de Administración de Sistemas Informáticos en Red (ASIR)**
 
